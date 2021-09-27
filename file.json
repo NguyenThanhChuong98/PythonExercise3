@@ -1,0 +1,9 @@
+{
+  "animals": [
+    {
+      "cat": "Yellow",
+      "dog": "Brown",
+      "mouse": "Grey"
+    }
+  ]
+}
