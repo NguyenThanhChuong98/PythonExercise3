@@ -2,7 +2,6 @@ import json
 
 
 def check_ins(data_input):
-    # check using isinstance method
     if isinstance(data_input, complex):
         return [data_input.real, data_input.imag]
     else:
